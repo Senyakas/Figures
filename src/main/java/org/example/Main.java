@@ -12,7 +12,7 @@ public class Main {
         Circle c2 = new Circle( -3 );
         System.out.println(c2.Perimeter() + " " + c2.Square());
 
-        Triangle t1 = new Triangle(5 , 6, 7);
+        Triangle t1 = new Triangle(5 ,6, 7);
         System.out.println(t1.Perimetr() +" " + t1.Square());
         Triangle t2 = new Triangle(-1 , 1, 1);
         System.out.println(t2.Perimetr() +" " + t2.Square());
